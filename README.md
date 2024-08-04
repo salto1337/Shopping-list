@@ -1,17 +1,33 @@
-
-# Shopping list
-
-This app allows you to create your own shopping list. The app has both dark and light modes. Your shopping list is saved in localStorage along with the theme.
-
+SHOPPING LIST
+========================================================================================================================================
+This app allows you to create a simple shopping list. The shopping list and the page theme are saved in local storage.
 ## Tech Stack
 
-**Client:** React, TypeScript, TailwindCSS
+React
+Typescript
+Tailwindcss
 
 
-## Screenshots
-
-![App Screenshot](https://scontent-fra5-1.xx.fbcdn.net/v/t1.15752-9/441529557_467633572580351_396895088041648105_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=34F8N0_Qx8EQ7kNvgFcsA1q&_nc_ht=scontent-fra5-1.xx&oh=03_Q7cD1QGX58N0q9pXFwvPC-1g4ZtQXUjmjJQjihAChOq0nJ-Ddg&oe=669516B5)
-
-![App Screenshot](https://scontent-fra5-2.xx.fbcdn.net/v/t1.15752-9/441434599_349765581215951_5850637491567677196_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=SLUW9k3iVtAQ7kNvgFDGloz&_nc_ht=scontent-fra5-2.xx&oh=03_Q7cD1QEXaPRRmI9_3GOLdPeb7Jl55U1k-zL3c4mZ2KDPGoA3YA&oe=66950FC2)
 
 
+## Screenshots of the project:
+
+![App Screenshot](https://i.imgur.com/Viz0fX8.png)
+
+![App Screenshot](https://i.imgur.com/tjKeonb.png)
+
+
+
+
+
+
+
+## Installation
+
+ 1 Download the files: Clone or download the repository to your local machine.
+
+ 2 Open the project in Visual Studio Code: Launch Visual Studio Code and open the project directory.
+
+ 3 Install dependencies: Open the terminal in Visual Studio Code and run the command npm install to install the required dependencies.
+```
+    
