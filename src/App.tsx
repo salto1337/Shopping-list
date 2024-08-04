@@ -58,7 +58,7 @@ function App() {
 			className={`w-full h-[100vh] ${
 				theme === "light" ? "bg-gray-300" : "bg-gray-900"
 			}`}>
-			<div className="flex justify-center pt-[200px]">
+			<div className="flex justify-center pt-[100px] lg:pt-[200px]">
 				<div
 					className={`${
 						theme === "light" ? "bg-white text-black" : "bg-gray-700 text-white"
